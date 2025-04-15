@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shogun/challs/03/solution.md",
+                "file": "Shogun/bin_overviews/basic_heap.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "solution"
+              "title": "basic_heap"
             }
           }
         ]
@@ -170,13 +170,15 @@
   },
   "active": "0fbf4442f8676f90",
   "lastOpenFiles": [
-    "Shogun/challs/readme.md",
+    "Shogun/bin_overviews/readme.md",
     "Shogun/README.md",
+    "random/TODO.md",
+    "Shogun/challs/03/solution.md",
+    "Shogun/challs/readme.md",
     "Shogun/pwn_demos/readme.md",
     "Shogun/heap_demos/fastbin/fastbin_basic/readme.md",
     "Shogun/heap_demos/readme.md",
     "random/tcache_delete_data.md",
-    "random/TODO.md",
     "Shogun/pwn_demos/fastbin/fastbin_double/readme.md",
     "Shogun/pwn_demos/fastbin/fastbin_linked/readme.md",
     "Shogun/pwn_demos/tcache/tcache_fastbin_double/readme.md",
@@ -213,8 +215,6 @@
     "FSOP/testing/glibc_2_35/arbitrary_write/readme.md",
     "FSOP/testing/glibc_2_35/arbitrary_read/fwrite",
     "FSOP/testing/glibc_2_35/arbitrary_write",
-    "FSOP/testing/glibc_2_35/arbitrary_read",
-    "Shogun/code_path_overview/free.md",
-    "FSOP/angelboy_fsop/readme.md"
+    "FSOP/testing/glibc_2_35/arbitrary_read"
   ]
 }
