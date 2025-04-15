@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b6bbc1876597604b",
+    "type": "split",
+    "children": [
+      {
+        "id": "18a91a17d2e5b63b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fbf4442f8676f90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shogun/challs/03/solution.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "solution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c7cd5b8c7ca2002",
+    "type": "split",
+    "children": [
+      {
+        "id": "1655ddda913f9536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3839be2c78ed056",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ca1993783d4ef1d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "799211bfac67c2f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ab877942b10a9ae5",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b717ae315c9bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af8232ee0830354",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shogun/heap_demos/malloc/heap_debugging/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "59645c6fcc6ce8e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Shogun/heap_demos/malloc/heap_debugging/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "1377e55f56a4ed22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8370d49582e75213",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shogun/heap_demos/malloc/heap_debugging/readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0fbf4442f8676f90",
+  "lastOpenFiles": [
+    "Shogun/challs/readme.md",
+    "Shogun/README.md",
+    "Shogun/pwn_demos/readme.md",
+    "Shogun/heap_demos/fastbin/fastbin_basic/readme.md",
+    "Shogun/heap_demos/readme.md",
+    "random/tcache_delete_data.md",
+    "random/TODO.md",
+    "Shogun/pwn_demos/fastbin/fastbin_double/readme.md",
+    "Shogun/pwn_demos/fastbin/fastbin_linked/readme.md",
+    "Shogun/pwn_demos/tcache/tcache_fastbin_double/readme.md",
+    "random/instructions.md",
+    "Shogun/bin_overviews/basic_heap.md",
+    "FSOP/testing/rce/pwncollege/readme3.md",
+    "FSOP/testing/readme.md",
+    "FSOP/testing/arbitray_read/fwrite/readme.md",
+    "FSOP/testing/rce/pwncollege/readme2.md",
+    "FSOP/testing/rce/pwncollege/readme.md",
+    "FSOP/testing/rce/an3eii/readme.md",
+    "FSOP/testing/rce/pwncollege/attachments/image11.png",
+    "FSOP/testing/rce/pwncollege/attachments/image10.png",
+    "FSOP/testing/rce/pwncollege/attachments/image09.png",
+    "FSOP/testing/rce/pwncollege/attachments/image08.png",
+    "FSOP/testing/rce/pwncollege/attachments/image06.png",
+    "FSOP/testing/rce/pwncollege/attachments/image07.png",
+    "FSOP/testing/rce/pwncollege/attachments/image05.png",
+    "FSOP/testing/rce/pwncollege/attachments/image04.png",
+    "FSOP/testing/rce/pwncollege/attachments/image03.png",
+    "FSOP/testing/rce/pwncollege/attachments/image02.png",
+    "FSOP/testing/rce/pwncollege/attachments",
+    "FSOP/angelboy_fsop/docs/Yet_another_binary_exploitation_technique.md",
+    "FSOP/testing/rce/pwncollege",
+    "FSOP/testing/rce/an3eii/attachments",
+    "FSOP/testing/rce/an3eii",
+    "FSOP/testing/rce",
+    "FSOP/testing/arbitray_read/arbitrary_read.md",
+    "FSOP/testing/arbitray_read/fwrite",
+    "FSOP/testing/arbitray_read",
+    "Shogun/compiling/compiling.md",
+    "FSOP/super_duper_couscous/readme.md",
+    "FSOP/testing/glibc_2_35/arbitrary_read/readme.md",
+    "FSOP/testing/glibc_2_35/arbitrary_write/readme.md",
+    "FSOP/testing/glibc_2_35/arbitrary_read/fwrite",
+    "FSOP/testing/glibc_2_35/arbitrary_write",
+    "FSOP/testing/glibc_2_35/arbitrary_read",
+    "Shogun/code_path_overview/free.md",
+    "FSOP/angelboy_fsop/readme.md"
+  ]
+}
