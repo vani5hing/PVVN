@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HeapLab/part_one/fastbin_dup/fastbin_dup.md",
+                "file": "FSOP/readme.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fastbin_dup"
+              "title": "readme"
             }
           }
         ]
@@ -168,11 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fbf4442f8676f90",
+  "active": "a3839be2c78ed056",
   "lastOpenFiles": [
+    "HeapLab/part_one/fastbin_dup/fastbin_dup.md",
     "HeapLab/part_one/house_of_force/house_of_force.md",
     "HeapLab/part_one/house_of_force/arbitrary_read_write.md",
-    "HeapLab/part_one/fastbin_dup/fastbin_dup.md",
     "random/TODO.md",
     "HeapLab/part_one/house_of_force/rce.md",
     "HeapLab/part_one/readme.md",
@@ -186,7 +186,7 @@
     "HeapLab/part_one/house_of_force/attachments/image00.png",
     "HeapLab/part_one/house_of_force/attachments",
     "FSOP/testing/rce/an3eii/readme.md",
-    "FSOP/testing/readme.md",
+    "FSOP/readme.md",
     "FSOP/testing/rce/pwncollege/readme2.md",
     "FSOP/testing/rce/pwncollege/readme.md",
     "Shogun/bin_overviews/basic_heap.md",
